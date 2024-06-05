@@ -2,12 +2,12 @@
     "users": [
       {
         "username": "batman",
-        "password": "123",
+        "password": "1",
         "permission": "administrador"
       },
       {
         "username": "alfred",
-        "password": "123",
+        "password": "12",
         "permission": "gerente"
       },
       {
