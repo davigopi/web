@@ -1,18 +1,18 @@
 {
     "users": [
       {
-        "username": "administrador",
-        "password": "administrador123",
+        "username": "batman",
+        "password": "123",
         "permission": "administrador"
       },
       {
-        "username": "gerente",
-        "password": "gerente123",
+        "username": "alfred",
+        "password": "123",
         "permission": "gerente"
       },
       {
-        "username": "funcionario",
-        "password": "funcionario123",
+        "username": "robin",
+        "password": "123",
         "permission": "funcionario"
       }
     ]
