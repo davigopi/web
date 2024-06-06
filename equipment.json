@@ -1,0 +1,56 @@
+[
+    {
+      "nome": "Batmóvel",
+      "tipo": "Veículo",
+      "quantidade": 1,
+      "status": "Em Uso"
+    },
+    {
+      "nome": "batplane",
+      "tipo": "Veículo",
+      "quantidade": 1,
+      "status": "Disponível"
+    },
+    {
+      "nome": "Batpod",
+      "tipo": "Veículo",
+      "quantidade": 2,
+      "status": "Em Uso"
+    },
+    {
+      "nome": "Batwing",
+      "tipo": "Veículo",
+      "quantidade": 1,
+      "status": "Em Manutenção"
+    },
+    {
+      "nome": "Bat-sinal",
+      "tipo": "Dispositivo",
+      "quantidade": 1,
+      "status": "Disponível"
+    },
+    {
+      "nome": "Batarang",
+      "tipo": "Equipamento",
+      "quantidade": 50,
+      "status": "Disponível"
+    },
+    {
+      "nome": "Grapple Gun",
+      "tipo": "Equipamento",
+      "quantidade": 10,
+      "status": "Disponível"
+    },
+    {
+      "nome": "Bat-cinto de Utilidades",
+      "tipo": "Equipamento",
+      "quantidade": 1,
+      "status": "Em Uso"
+    },
+    {
+      "nome": "Batcomputador",
+      "tipo": "Equipamento",
+      "quantidade": 5,
+      "status": "Disponível"
+    }
+  ]
