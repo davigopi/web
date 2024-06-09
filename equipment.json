@@ -4,33 +4,54 @@
       "tipo": "Veículo",
       "quantidade": 1,
       "status": "Em Uso",
-      "img": "https://i.im.ge/2024/06/09/KErjqF.Batmovel.png"
+      "img": "https://i.im.ge/2024/06/10/KEdsBf.Batmovel.png"
+    },
+    {
+      "nome": "Batmóvel",
+      "tipo": "Veículo",
+      "quantidade": 1,
+      "status": "Manutenção",
+      "img": "https://i.im.ge/2024/06/10/KEdsBf.Batmovel.png"
     },
     {
       "nome": "batplane",
       "tipo": "Veículo",
       "quantidade": 1,
       "status": "Disponível",
-      "img": "https://i.im.ge/2024/06/09/KEriLS.batplane.png"
+      "img": "https://i.im.ge/2024/06/10/KEddhP.batplane.png"
     },
     {
       "nome": "Batpod",
       "tipo": "Veículo",
       "quantidade": 2,
       "status": "Em Uso",
-      "img": "https://i.im.ge/2024/06/09/KErwk9.Batpod.png"
+      "img": "https://i.im.ge/2024/06/10/KEdIHW.Batpod.png"
+    },
+    {
+      "nome": "Batpod",
+      "tipo": "Veículo",
+      "quantidade": 1,
+      "status": "Disponível",
+      "img": "https://i.im.ge/2024/06/10/KEdIHW.Batpod.png"
     },
     {
       "nome": "Batwing",
       "tipo": "Veículo",
-      "quantidade": 1,
+      "quantidade": 2,
+      "status": "Disponível",
+      "img": "https://i.im.ge/2024/06/10/KEdU10.Batwing.png"
+    },
+    {
+      "nome": "Batwing",
+      "tipo": "Veículo",
+      "quantidade": 2,
       "status": "Em Manutenção",
-      "img": "https://i.im.ge/2024/06/09/KErNFX.Batwing.png"
+      "img": "https://i.im.ge/2024/06/10/KEdU10.Batwing.png"
     },
     {
       "nome": "Bat-sinal",
       "tipo": "Dispositivo",
-      "quantidade": 1,
+      "quantidade": 4,
       "status": "Disponível",
       "img": "https://i.im.ge/2024/06/09/KEr4jx.bat-sinal.png"
     },
@@ -39,27 +60,34 @@
       "tipo": "Equipamento",
       "quantidade": 50,
       "status": "Disponível",
-      "img": "https://i.im.ge/2024/06/09/KErL8J.Batarang.png"
+      "img": "https://i.im.ge/2024/06/10/KEdqb1.Batarang.png"
     },
     {
       "nome": "Grapple Gun",
       "tipo": "Equipamento",
-      "quantidade": 10,
+      "quantidade": 8,
       "status": "Disponível",
-      "img": "https://i.im.ge/2024/06/09/KErP98.Grapple-Gun.png"
+      "img": "https://i.im.ge/2024/06/10/KEdhwT.Grapple-Gun.png"
     },
     {
       "nome": "Bat-cinto",
       "tipo": "Equipamento",
       "quantidade": 30,
       "status": "Disponível",
-      "img": "https://i.im.ge/2024/06/09/KErDux.Bat-cinto.png"
+      "img": "https://i.im.ge/2024/06/10/KEdSop.Bat-cinto.png"
     },
     {
       "nome": "Batcomputador",
       "tipo": "Equipamento",
       "quantidade": 5,
       "status": "Disponível",
-      "img": "https://i.im.ge/2024/06/09/KErmPK.Batcomputador.png"
+      "img": "https://i.im.ge/2024/06/10/KEd7am.Batcomputador.png"
+    }
+    {
+      "nome": "Batcomputador",
+      "tipo": "Equipamento",
+      "quantidade": 1,
+      "status": "Manutenção",
+      "img": "https://i.im.ge/2024/06/10/KEd7am.Batcomputador.png"
     }
   ]
